@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+div{
+    width: 40vw;
+    height: 30vh;
+    margin: 10vh 25vw;
+    padding: 10vh 0;
+    text-align: center;
+}
+
+button{
+    
+    height: 55px;
+    width: 500px;
+    background: linear-gradient(
+        to right,
+        #f6a800,
+        #00c853
+    );
+}
